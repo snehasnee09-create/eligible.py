@@ -4,3 +4,4 @@ print("before swapping:")
 print("a=",a)
 print("B",b)
 a,b=b,a
+p(a,b)
